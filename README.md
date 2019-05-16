@@ -1,7 +1,7 @@
 ## React-VideoCall
-Demo app: https://morning-escarpment-67980.herokuapp.com/  
+Demo app: https://react-video-chat.herokuapp.com/ 
 
-<img align="right" width="360" src="https://raw.githubusercontent.com/nguymin4/react-videocall/master/docs/ss1.jpg"  alt =" " style="border: solid 1px #d4d4d4" />
+<img align="right" width="360" src="https://github.com/webninja1992/react-videocall/master/docs/ss1.jpg"  alt =" " style="border: solid 1px #d4d4d4" />
   
 Video call to your friend without registering. 
 Simply send your friend your auto-generated unique ID to make the call.  
@@ -16,10 +16,6 @@ cd server && yarn watch
 # Running webpack-dev-server
 cd client && yarn watch
 ```
-
-**Deployment**
-
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nguymin4/react-videocall/tree/production)
 
 **Front-end Technologies:**
 - React
