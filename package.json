@@ -1,0 +1,21 @@
+{
+  "name": "react-videocall",
+  "version": "1.0.0",
+  "description": "React VideoCall App",
+  "main": " ",
+  "scripts": {
+    "install": "sh install.sh",
+    "postinstall": "cd client && yarn build",
+    "start": "cd server && yarn start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/webninja1992/react-videocall.git"
+  },
+  "engines": {
+    "node": "8.11.3",
+    "yarn": "1.7.0"
+  },
+  "license": "MIT",
+  "homepage": "https://github.com/webninja1992/"
+}
